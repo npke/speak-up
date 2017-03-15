@@ -1,27 +1,32 @@
-# Speak Up - Speak to made change start
+# Speak Up - Start speak to make change start
 
-### 1.Description
-Speak Up is a mobile English Chat application which help you improve your communication skill (speaking & listening) by give you short converstations with other users anytime you free. The main idea is connect two users in the same level, give them a topic that both interested in and then they make a converstation about it.
+### 1. Description
+Speak Up is a mobile English Chat application which helps you improve your communication skills (speaking & listening) by giving you short conversations with other users anytime you're free. The main idea is connect two users in the same level, give them a topic that both interested in and then they make a conversation about it.
 
-### 2. App flow- User sign up
-#### 2.1 Sign up, test English level, 
-- Do a test to indentify user's english level (if the test result is unexpected with user, they can choose to test again)
-- Assign user to the level: beginner, immediate, advandce
-- Choose topics that they are interted in 
+### 2. App flow & Features
+- User sign up
+- Do a test to identify user's English level (if the test result is unexpected with user, they can choose to test again)
+- Assign user to the level: beginner, intermediate, advance
+- Choose topics that they are interested in 
 - Finish sign up
 
 - Open app
-- Show main menu which include: Start a random converstation (core feature), Practice pronuncation, Converstatiion samples (common use-case by level: greeting, have dinner, interview, prestation...)
-- User choose to start a converstation -> send a request, find other available users -> random choose one -> connect to start -> converstation can be audio only or video chat -> users talking about the topic -> app record the converstation -> converstation finish -> give them recored audio/video.
+- Show main menu which includes: 
+  - Start a random conversation (core feature), 
+  - Explore great conversations done by other users,
+  - Practice pronunciation, 
+  - Conversation samples (common use-case by level: greeting, interview, presentation...)
+  
+#### Flow for random conversation feature:
+Start a converstation -> Send a request, find other available users (in the same level) -> Random choose one -> Connect to chosen user (conversation can be audio only or video chat) -> Give they a topic -> Users talk about the topic -> Record the conversation -> Conversation finish -> Give user the recored audio/video.
 
-Paid features:
-- Converstation review: Want teacher to review your converstation and then get feedback -> send review request -> select the user you want to help you review the converstation -> check their pay requirement (free or how much) -> teacher reivew & make a summary report -> call to disucss with user 
-- Start converstation to expert english user to get feedback, correct right on the converstation (pay per minutes)
+#### Paid features:
+- Conversation review: Want to review your conversation and then get feedback -> Send review request -> Select reviewer -> Check their pay requirement (free or how much) -> Reviewer reivew & make a summary report -> Discuss about the conversation & give feedback, mistake correct
+
+- Start conversation with expert English user to get feedback, correct mistake right on the conversation (pay per minutes)
 
 ### 3. Challenges:
 - Implement & optimize video chat feature
--- Solution: Use third-party app or service (Messegner, Zalo, Viber...)
+-- Solution: Use third-party app or service (Messenger, Zalo, Viber...), focus on the main role that is connect users.
 - Payment
--- Solution: 
-
-
+-- Solution: Not yet
