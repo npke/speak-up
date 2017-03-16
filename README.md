@@ -32,9 +32,22 @@ Start a converstation -> Send a request, find other available users (in the same
 -- Solution: Not yet
 
 ### 4. Mockups
+#### Sign up & check level  
 ![Imgur](http://i.imgur.com/aB7PVIY.png)![Imgur](http://i.imgur.com/MchLtgA.png)  
 ![Imgur](http://i.imgur.com/kMTYMX0.png)![Imgur](http://i.imgur.com/WVuP5j2.png)  
 ![Imgur](http://i.imgur.com/CM2t51u.png)![Imgur](http://i.imgur.com/5Sw0bcR.png)  
 ![Imgur](http://i.imgur.com/OCz21ll.png)![Imgur](http://i.imgur.com/jVuJa2y.png)  
+  
+#### Make a conversation  
 ![Imgur](http://i.imgur.com/OfigmIz.png)![Imgur](http://i.imgur.com/x1Sjs8M.png)  
 ![Imgur](http://i.imgur.com/LxzaPUc.png)![Imgur](http://i.imgur.com/2wur1v1.png)  
+  
+#### Explore  
+![Imgur](http://i.imgur.com/M4zYJT9.png)![Imgur](http://i.imgur.com/3k6U4Tv.png)  
+
+#### Sample conversation  
+![Imgur](http://i.imgur.com/opUvsor.png)![Imgur](http://i.imgur.com/KbJVPdv.png)  
+![Imgur](http://i.imgur.com/BtstbVd.png)
+
+#### Practice pronunciation  
+![Imgur](http://i.imgur.com/CEOXrQs.png)![Imgur](http://i.imgur.com/GRJJ1KS.png)  
