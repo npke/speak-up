@@ -1,7 +1,7 @@
-# Speak Up - Start speak to make change start
+# Speak Up - Start speaking to make change start
 
 ### 1. Description
-Speak Up is a mobile English Chat application which helps you improve your communication skills (speaking & listening) by giving you short conversations with other users anytime you're free. The main idea is connect two users in the same level, give them a topic that both interested in and then they make a conversation about it.
+Speak Up is a mobile English Chat application which helps you improve your communication skills (speaking & listening) by giving you short conversations with other users anytime you're free. The main idea is to connect two users in the same level, give them a topic that both interested in and then they make a conversation about it.
 
 ### 2. App flow & Features
 - User sign up
