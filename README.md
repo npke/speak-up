@@ -32,8 +32,8 @@ Start a converstation -> Send a request, find other available users (in the same
 -- Solution: Not yet
 
 ### 4. Mockups
-[Imgur](http://i.imgur.com/aB7PVIY.png)[Imgur](http://i.imgur.com/MchLtgA.png)  
-[Imgur](http://i.imgur.com/kMTYMX0.png)[Imgur](http://i.imgur.com/WVuP5j2.png)  
-[Imgur](http://i.imgur.com/CM2t51u.png)[Imgur](http://i.imgur.com/OfigmIz.png)  
-[Imgur](http://i.imgur.com/LxzaPUc.png)[Imgur](http://i.imgur.com/OCz21ll.png)  
-[Imgur](http://i.imgur.com/jVuJa2y.png)[Imgur](http://i.imgur.com/2wur1v1.png)  
+![Imgur](http://i.imgur.com/aB7PVIY.png)![Imgur](http://i.imgur.com/MchLtgA.png)  
+![Imgur](http://i.imgur.com/kMTYMX0.png)![Imgur](http://i.imgur.com/WVuP5j2.png)  
+![Imgur](http://i.imgur.com/CM2t51u.png)![Imgur](http://i.imgur.com/OfigmIz.png)  
+![Imgur](http://i.imgur.com/LxzaPUc.png)![Imgur](http://i.imgur.com/OCz21ll.png)  
+![Imgur](http://i.imgur.com/jVuJa2y.png)![Imgur](http://i.imgur.com/2wur1v1.png)  
